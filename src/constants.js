@@ -1,0 +1,58 @@
+export const INITIAL_CONTACTS = [
+  {
+    id: 1,
+    name: "Alia Reddy",
+    email: "alia.reddy@example.com",
+    phone: "555-0101",
+    avatarUrl: "https://picsum.photos/seed/alia/200",
+  },
+  {
+    id: 2,
+    name: "Ben Carter",
+    email: "ben.carter@example.com",
+    phone: "555-0102",
+    avatarUrl: "https://picsum.photos/seed/ben/200",
+  },
+  {
+    id: 3,
+    name: "Chloe Davis",
+    email: "chloe.davis@example.com",
+    phone: "555-0103",
+    avatarUrl: "https://picsum.photos/seed/chloe/200",
+  },
+  {
+    id: 4,
+    name: "David Evans",
+    email: "david.evans@example.com",
+    phone: "555-0104",
+    avatarUrl: "https://picsum.photos/seed/david/200",
+  },
+  {
+    id: 5,
+    name: "Eva Foster",
+    email: "eva.foster@example.com",
+    phone: "555-0105",
+    avatarUrl: "https://picsum.photos/seed/eva/200",
+  },
+  {
+    id: 6,
+    name: "Frank Green",
+    email: "frank.green@example.com",
+    phone: "555-0106",
+    avatarUrl: "https://picsum.photos/seed/frank/200",
+  },
+  {
+    id: 7,
+    name: "Grace Hall",
+    email: "grace.hall@example.com",
+    phone: "555-0107",
+    avatarUrl: "https://picsum.photos/seed/grace/200",
+  },
+  {
+    id: 8,
+    name: "Henry Irving",
+    email: "henry.irving@example.com",
+    phone: "555-0108",
+    avatarUrl: "https://picsum.photos/seed/henry/200",
+  },
+];
